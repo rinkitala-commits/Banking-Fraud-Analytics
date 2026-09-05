@@ -308,7 +308,7 @@ Category Technologies
 1. Clone the repository
 
 ```bash
-  git clone (https://github.com/rinkitala-commits/Banking-Fraud-Analytics)
+git clone https://github.com/rinkitala-commits/Banking-Fraud-Analytics
 ```
 
 2. Navigate into the project
