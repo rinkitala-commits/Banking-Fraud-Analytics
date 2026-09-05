@@ -262,26 +262,45 @@ Banking-Fraud-Analytics/
 ## 🛠️ Technologies
 
 Category Technologies
+
 **Programming**
 
 - Python
-  **Database**
+
+**Database**
+
 - SQLite
-  **SQL**
+
+**SQL**
+
 - SQL
-  **Data Analysis**
+
+**Data Analysis**
+
 - Pandas, NumPy
-  **Visualization**
+
+**Visualization**
+
 - Matplotlib, Seaborn
-  **Machine Learning**
+
+**Machine Learning**
+
 - Scikit-learn
-  **Dashboard**
+
+**Dashboard**
+
 - Streamlit
-  **Notebook**
+
+**Notebook**
+
 - Jupyter
-  **Model Persistence**
+
+**Model Persistence**
+
 - Joblib
-  **Version Control**
+
+**Version Control**
+
 - Git, GitHub
 
 ## ▶️ How to Run
@@ -289,7 +308,7 @@ Category Technologies
 1. Clone the repository
 
 ```bash
-   git clone YOUR_GITHUB_REPOSITORY_URL
+  git clone (https://github.com/rinkitala-commits/Banking-Fraud-Analytics)
 ```
 
 2. Navigate into the project
