@@ -28,6 +28,14 @@ Fraud Prediction
 Interactive Streamlit Dashboard
 ```
 
+### 📸 Dashboard Preview
+
+![Dashboard Overview](images/dashboard_overview.png)
+
+![Fraud Analysis](images/fraud_analysis.png)
+
+![Fraud Prediction](images/fraud_prediction.png)
+
 The project combines:
 
 - SQL
