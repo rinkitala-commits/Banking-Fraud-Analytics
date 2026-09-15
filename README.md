@@ -6,6 +6,10 @@ A complete end-to-end data analytics and machine learning project that analyzes 
 
 ---
 
+## Live Demo
+
+[🚀 Banking Fraud Analytics · Streamlit](https://banking-fraud-analytics-l6eszn7dncbksgjkvrmggd.streamlit.app/)
+
 ## 🚀 Project Overview
 
 The project simulates a real-world banking analytics workflow:
@@ -419,3 +423,11 @@ Educational purposes
 
 B.Tech Data Science Student
 Python Developer | Data Analyst | Data Science Enthusiast
+
+## 📫 Connect With Me
+
+Feel free to explore my repositories and projects.
+
+🔗 **[GitHub](https://github.com/rinkitala-commits)**
+
+🔗 **[LinkedIn](https://www.linkedin.com/in/jhumarani-tala-57803a330/)**
